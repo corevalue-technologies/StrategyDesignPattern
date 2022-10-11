@@ -1,1 +1,3 @@
-# Design_pattern-2
+# STRATEGY_DESIGN_PATTERN
+
+This code is an example of Strategy design pattern
